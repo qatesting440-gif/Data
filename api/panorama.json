@@ -1,0 +1,262 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Skopje-North Macedonia",
+      "image": "panorama/1761029501619Skopje-North Macedonia.jpg",
+      "premium":false
+    },
+    {
+      "id": 2,
+      "name": "San Francisco",
+      "image": "panorama/1761029434948San Francisco.jpg",
+      "premium":false
+    },
+    {
+      "id": 3,
+      "name": "Regensburg",
+      "image": "panorama/1761029377636Regensburg.jpg",
+      "premium":false
+    },
+    {
+      "id": 4,
+      "name": "New York",
+      "image": "panorama/1761029334917New York.jpg",
+      "premium":false
+    },
+    {
+      "id": 5,
+      "name": "Miami",
+      "image": "panorama/1761029305819Miami.jpg",
+      "premium":false
+    },
+    {
+      "id": 6,
+      "name": "Marina Bay",
+      "image": "panorama/1761029271895Marina Bay.jpg",
+      "premium":false
+    },
+    {
+      "id": 7,
+      "name": "Jerusalem",
+      "image": "panorama/1761029231116Jerusalem.jpg",
+      "premium":false
+    },
+    {
+      "id": 8,
+      "name": "HongKong",
+      "image": "panorama/1761029188321HongKong.jpg",
+      "premium":false
+    },
+    {
+      "id": 9,
+      "name": "Hong Kong",
+      "image": "panorama/1761029145985Hong Kong.jpg",
+      "premium":false
+    },
+    {
+      "id": 10,
+      "name": "Grenchen, Switzerland",
+      "image": "panorama/1761028988822Grenchen, Switzerland.jpg",
+      "premium":false
+    },
+    {
+      "id": 11,
+      "name": "Vatican",
+      "image": "panorama/1722941453627Vatican.jpg",
+      "premium":false
+    },
+    {
+      "id": 12,
+      "name": "Stonehenge,Wiltshire, England",
+      "image": "panorama/1722941393708Stonehenge,Wiltshire, England.jpg",
+      "premium":false
+    },
+    {
+      "id": 13,
+      "name": "Rocky, Canada",
+      "image": "panorama/1722941369587Rocky, Canada.jpg",
+      "premium":false
+    },
+    {
+      "id": 14,
+      "name": "Perugia, Italy",
+      "image": "panorama/1722941356816Perugia, Italy.jpg",
+      "premium":false
+    },
+    {
+      "id": 15,
+      "name": "Miami, Florida",
+      "image": "panorama/1722941333137Miami, Florida.jpg",
+      "premium":false
+    },
+    {
+      "id": 16,
+      "name": "Landshut,Germany",
+      "image": "panorama/1722941319374Landshut,Germany.jpg",
+      "premium":false
+    },
+    {
+      "id": 17,
+      "name": "Ebersberg",
+      "image": "panorama/1722941281510Ebersberg.jpg",
+      "premium":false
+    },
+    {
+      "id": 18,
+      "name": "Bavaria, Germany",
+      "image": "panorama/1722941275771Bavaria, Germany.jpg",
+      "premium":false
+    },
+    {
+      "id": 19,
+      "name": "Amalfi, Italy",
+      "image": "panorama/1722941268818Amalfi, Italy.jpg",
+      "premium":false
+    },
+    {
+      "id": 20,
+      "name": "Bibao, Spain",
+      "image": "panorama/bilbao_spain.jpg",
+      "premium":false
+    },
+    {
+      "id": 21,
+      "name": "Capetown, South Africa",
+      "image": "panorama/capetown_southafrica.webp",
+      "premium":false
+    },
+    {
+      "id": 22,
+      "name": "Chicago, USA",
+      "image": "panorama/chicago_usa.jpg",
+      "premium":false
+    },
+    {
+      "id": 23,
+      "name": "Edinburgh, Scotland",
+      "image": "panorama/edinburgh_scotland.jpeg",
+      "premium":false
+    },
+    {
+      "id": 24,
+      "name": "Hamburg, Germany",
+      "image": "panorama/hamburg_germany.jpg",
+      "premium":false
+    },
+    {
+      "id": 25,
+      "name": "Lisbon, Portugal",
+      "image": "panorama/lisbon_portugal.png",
+      "premium":false
+    },
+    {
+      "id": 26,
+      "name": "Medellin, Colombia",
+      "image": "panorama/medellin_colombia.jpg",
+      "premium":false
+    },
+    {
+      "id": 27,
+      "name": "Porto, Portugal",
+      "image": "panorama/porto_portugal.png",
+      "premium":false
+    },
+    {
+      "id": 28,
+      "name": "Sydney, Australia",
+      "image": "panorama/sydney_australia.png",
+      "premium":false
+    },
+    {
+      "id": 29,
+      "name": "Tbilisi, Georgia",
+      "image": "panorama/tbilisi_georgia.jpg",
+      "premium":false
+    },
+    {
+      "id": 30,
+      "name": "Tokyo, Japan",
+      "image": "panorama/tokyo_japan.jpg",
+      "premium":false
+    },
+    {
+      "id": 31,
+      "name": "Newyork, Usa",
+      "image": "panorama/newyork_usa.jpg",
+      "premium":false
+    },
+    {
+      "id": 32,
+      "name": "Paris, France",
+      "image": "panorama/paris_france.jpg",
+      "premium":false
+    },
+    {
+      "id": 33,
+      "name": "Rio de Janeiro, Brazil",
+      "image": "panorama/janerio_brazil.jpg",
+      "premium":false
+    },
+    {
+      "id": 34,
+      "name": "Tbilisi, Georgia",
+      "image": "panorama/tbilisi1_georgia.jpg",
+      "premium":false
+    },
+    {
+      "id": 35,
+      "name": "Vancouver, Canada",
+      "image": "panorama/vancouver_canada.jpg",
+      "premium":false
+    },
+    {
+      "id": 36,
+      "name": "Bangkok, Thailand",
+      "image": "panorama/bangkok_thailand.jpg",
+      "premium":false
+    },
+    {
+      "id": 37,
+      "name": "Cairo, Egypt",
+      "image": "panorama/cairo_egypt.jpg",
+      "premium":false
+    },
+    {
+      "id": 38,
+      "name": "Rome, Italy",
+      "image": "panorama/roame_italy.jpg",
+      "premium":false
+    },
+    {
+      "id": 39,
+      "name": "Melbourne, Australia",
+      "image": "panorama/melbourne_australia.jpg",
+      "premium":false
+    },
+    {
+      "id": 40,
+      "name": "Singapore, Singapore",
+      "image": "panorama/singapore.jpg",
+      "premium":false
+    },
+    {
+      "id": 41,
+      "name": "Madinah, Saudi Arabia",
+      "image": "panorama/madinah.webp",
+      "premium":false
+    },
+    {
+      "id":42,
+      "name":"Sheikh Zayed Grand Mosque",
+      "image": "panorama/sheikh_zayed_mosque.webp",
+      "premium":false
+    },
+    {
+      "id":43,
+      "name":"Humayun's Tomb, Delhi",
+      "image": "panorama/humayun_tomb.webp",
+      "premium":false
+    }
+  ]
+}
