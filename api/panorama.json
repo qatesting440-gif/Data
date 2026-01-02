@@ -2,14 +2,14 @@
   "data": [
     {
       "id": 1,
-      "name": "San Francisco",
-      "image": "panorama/1761029434948San Francisco.jpg",
+      "name": "Skopje-North Macedonia",
+      "image": "panorama/1761029501619Skopje-North Macedonia.jpg",
       "premium":false
     },
     {
       "id": 2,
-      "name": "Skopje-North Macedonia",
-      "image": "panorama/1761029501619Skopje-North Macedonia.jpg",
+      "name": "San Francisco",
+      "image": "panorama/1761029434948San Francisco.jpg",
       "premium":false
     },
     {
@@ -261,3 +261,4 @@
   ]
 
 }
+
