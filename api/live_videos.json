@@ -14,6 +14,15 @@
     "Bus Station"
   ],
   "data": [
+       {
+      "id": 14,
+      "name": "Chicago Skyline, Illinois",
+      "linkVideo": "https://www.youtube.com/watch?v=sQxL8t0gtu8",
+      "latitude": 41.8781,
+      "longitude": -87.6298,
+      "premium": false,
+      "cat": "City"
+    },
     {
       "id": 66,
       "name": "Railfan, Greenville",
@@ -22,14 +31,6 @@
       "longitude": -82.394,
       "premium": false,
       "cat": "Railway Station"
-    },   {
-      "id": 14,
-      "name": "Chicago Skyline, Illinois",
-      "linkVideo": "https://www.youtube.com/watch?v=sQxL8t0gtu8",
-      "latitude": 41.8781,
-      "longitude": -87.6298,
-      "premium": false,
-      "cat": "City"
     },
     {
       "id": 15,
@@ -2596,4 +2597,5 @@
       "cat": "Railway Station"
     }
   ]
+
 }
