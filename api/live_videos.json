@@ -20,7 +20,7 @@
       "linkVideo": "https://www.youtube.com/watch?v=sQxL8t0gtu8",
       "latitude": 41.8781,
       "longitude": -87.6298,
-      "premium": false,
+      "premium": true,
       "cat": "City"
     },
     {
@@ -29,7 +29,7 @@
       "linkVideo": "https://www.youtube.com/watch?v=UZ8yAOiMIms",
       "latitude": 34.8526,
       "longitude": -82.394,
-      "premium": false,
+      "premium": true,
       "cat": "Railway Station"
     },
     {
@@ -38,7 +38,7 @@
       "linkVideo": "https://www.youtube.com/watch?v=-HAi_5IIAYg",
       "latitude": 26.3184,
       "longitude": -80.0982,
-      "premium": false,
+      "premium": true,
       "cat": "Beach"
     },
     {
@@ -47,7 +47,7 @@
       "linkVideo": "https://www.youtube.com/watch?v=-nJwQ5ECvUw",
       "latitude": 26.9333,
       "longitude": -80.0942,
-      "premium": false,
+      "premium": true,
       "cat": "Street"
     },
     {
@@ -56,7 +56,7 @@
       "linkVideo": "https://www.youtube.com/watch?v=dzylsC0KcOE",
       "latitude": 26.0963,
       "longitude": -97.1689,
-      "premium": false,
+      "premium": true,
       "cat": "Beach"
     },
     {
@@ -65,7 +65,7 @@
       "linkVideo": "https://www.youtube.com/watch?v=a5T6Igp7TvI",
       "latitude": 25.768,
       "longitude": -80.1311,
-      "premium": false,
+      "premium": true,
       "cat": "Beach"
     },
     {
@@ -74,7 +74,7 @@
       "linkVideo": "https://www.youtube.com/watch?v=2UJDLWcSADk",
       "latitude": 40.4844,
       "longitude": -106.832,
-      "premium": false,
+      "premium": true,
       "cat": "Street"
     },
     {
@@ -83,7 +83,7 @@
       "linkVideo": "https://www.youtube.com/watch?v=FLci2xciBb4",
       "latitude": 27.3135,
       "longitude": -81.6875,
-      "premium": false,
+      "premium": true,
       "cat": "Street"
     },
     {
@@ -2599,3 +2599,4 @@
   ]
 
 }
+
