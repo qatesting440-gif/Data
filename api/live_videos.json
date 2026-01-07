@@ -150,7 +150,7 @@
       "cat": "Street"
     },
     {
-      "id": 46,
+      "id": 16,
       "name": "High Cliff Marina, Sherwood",
       "linkVideo": "https://www.youtube.com/watch?v=2-atLqwL-vc",
       "latitude": 44.1665,
@@ -159,7 +159,7 @@
       "cat": "Beach"
     },
     {
-      "id": 48,
+      "id": 17,
       "name": "Mezcal Tiki Bar, Florida",
       "linkVideo": "https://www.youtube.com/watch?v=2EfuPXRXLLk",
       "latitude": 27.9642,
@@ -168,7 +168,7 @@
       "cat": "Street"
     },
     {
-      "id": 49,
+      "id": 18,
       "name": "Steamboat Square, Colorado",
       "linkVideo": "https://www.youtube.com/watch?v=2UJDLWcSADk",
       "latitude": 40.4844,
@@ -177,7 +177,7 @@
       "cat": "Street"
     },
     {
-      "id": 50,
+      "id": 19,
       "name": "Lawai Beach Resort, Hawaii",
       "linkVideo": "https://www.youtube.com/watch?v=3ATYHKN2hIg",
       "latitude": 21.9038,
@@ -186,13 +186,13 @@
       "cat": "Beach"
     },
     {
-      "id": 53,
-      "name": "Port San Luis, California",
-      "linkVideo": "https://www.youtube.com/watch?v=3gMNVfyu4tA",
+      "id": 20,
+      "name": "San Luis Obispo, CA",
+      "linkVideo": "https://youtu.be/S2YHshIN0F8",
       "latitude": 35.1749,
       "longitude": -120.738,
       "premium": true,
-      "cat": "Beach"
+      "cat": "Railway Station"
     },
     {
       "id": 55,
@@ -2599,6 +2599,7 @@
   ]
 
 }
+
 
 
 
