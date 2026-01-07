@@ -26,7 +26,7 @@
     {
       "id": 66,
       "name": "Railfan, Greenville",
-      "linkVideo": "https://www.youtube.com/watch?v=UZ8yAOiMIms",
+      "linkVideo": "https://youtu.be/xpFB6aUuFso",
       "latitude": 34.8526,
       "longitude": -82.394,
       "premium": true,
@@ -35,7 +35,7 @@
     {
       "id": 15,
       "name": "Deerfield Beach",
-      "linkVideo": "https://www.youtube.com/watch?v=-HAi_5IIAYg",
+      "linkVideo": "https://youtu.be/H33wtprQqSM",
       "latitude": 26.3184,
       "longitude": -80.0982,
       "premium": true,
@@ -2599,6 +2599,7 @@
   ]
 
 }
+
 
 
 
