@@ -1263,7 +1263,7 @@
         {
           "id": 113,
           "name": "Chiang Kai-shek Memorial Hal",
-          "imageUrl": "famous_places/1722998912524Chiang Kai-shek Memorial Hal.PNG",
+          "imageUrl": "famous_places/1722998912524Chiang Kai-shek Memorial Hal.png",
           "cityId": 48
         },
         {
@@ -2198,7 +2198,7 @@
         {
           "id": 426,
           "name": "Blue Mosque",
-          "imageUrl": "famous_places/1723004668832Blue Mosque.avif",
+          "imageUrl": "famous_places/1723004668832Blue Mosque.png",
           "cityId": 85
         },
         {
@@ -7207,4 +7207,5 @@
   ]
 
 }
+
 
