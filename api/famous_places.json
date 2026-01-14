@@ -843,7 +843,7 @@
         {
           "id": 354,
           "name": "Davao Crocodile Park",
-          "imageUrl": "famous_places/1723003331820Davao Crocodile Park.JPG",
+          "imageUrl": "famous_places/1723003331820Davao Crocodile Park.jpg",
           "cityId": 32
         },
         {
@@ -7205,4 +7205,5 @@
       "travels": []
     }
   ]
+
 }
