@@ -169,6 +169,12 @@
       "premium":false
     },
     {
+      "id":29,
+      "name":"Humayun's Tomb, Delhi",
+      "image": "panorama/humayun_tomb.webp",
+      "premium":false
+    },
+    {
       "id": 30,
       "name": "Tokyo, Japan",
       "image": "panorama/tokyo_japan.jpeg",
@@ -255,4 +261,5 @@
   ]
 
 }
+
 
