@@ -117,7 +117,7 @@
     {
       "id": 20,
       "name": "Bibao, Spain",
-      "image": "panorama/bilbao_spain.jpg",
+      "image": "panorama/bilbao_spain.jpeg",
       "premium":false
     },
     {
@@ -259,4 +259,5 @@
       "premium":false
     }
   ]
+
 }
