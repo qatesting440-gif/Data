@@ -169,21 +169,15 @@
       "premium":false
     },
     {
-      "id": 29,
-      "name": "Tbilisi, Georgia",
-      "image": "panorama/tbilisi_georgia.jpg",
-      "premium":false
-    },
-    {
       "id": 30,
       "name": "Tokyo, Japan",
-      "image": "panorama/tokyo_japan.jpg",
+      "image": "panorama/tokyo_japan.jpeg",
       "premium":false
     },
     {
       "id": 31,
       "name": "Newyork, Usa",
-      "image": "panorama/newyork_usa.jpg",
+      "image": "panorama/newyork_usa.jpeg",
       "premium":false
     },
     {
@@ -201,7 +195,7 @@
     {
       "id": 34,
       "name": "Tbilisi, Georgia",
-      "image": "panorama/tbilisi1_georgia.jpg",
+      "image": "panorama/tbilisi1_georgia.jpeg",
       "premium":false
     },
     {
@@ -213,19 +207,19 @@
     {
       "id": 36,
       "name": "Bangkok, Thailand",
-      "image": "panorama/bangkok_thailand.jpg",
+      "image": "panorama/bangkok_thailand.jpeg",
       "premium":false
     },
     {
       "id": 37,
       "name": "Cairo, Egypt",
-      "image": "panorama/cairo_egypt.jpg",
+      "image": "panorama/cairo_egypt.jpeg",
       "premium":false
     },
     {
       "id": 38,
       "name": "Rome, Italy",
-      "image": "panorama/roame_italy.jpg",
+      "image": "panorama/roame_italy.jpeg",
       "premium":false
     },
     {
@@ -237,7 +231,7 @@
     {
       "id": 40,
       "name": "Singapore, Singapore",
-      "image": "panorama/singapore.jpg",
+      "image": "panorama/singapore.jpeg",
       "premium":false
     },
     {
@@ -261,5 +255,4 @@
   ]
 
 }
-
 
