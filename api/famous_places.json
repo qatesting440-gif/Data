@@ -1505,7 +1505,26 @@
       "history": "Lahore is known for its rich history and cultural heritage, serving as the cultural heart of Pakistan. It has been a significant city throughout various empires, including the Mughal Empire, and is known for its Mughal architecture and vibrant arts scene.",
       "latitude": 31.54972,
       "longitude": 74.34361,
-      "travels": []
+      "travels": [
+        {
+          "id": 327,
+          "name": "Badshahi Mosque",
+          "imageUrl": "famous_places/badshahi_mosque.jpg",
+          "cityId": 56
+        },
+        {
+          "id": 328,
+          "name": "Shahi Fort",
+          "imageUrl": "famous_places/shahi_fort.jpg",
+          "cityId": 56
+        },
+        {
+          "id": 329,
+          "name": "Minar-e-Pakisatan",
+          "imageUrl": "famous_places/minar_e_pakistan.jpg",
+          "cityId": 56
+        }
+      ]
     },
     {
       "id": 58,
@@ -7207,6 +7226,7 @@
   ]
 
 }
+
 
 
 
