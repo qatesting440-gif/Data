@@ -773,7 +773,7 @@
     {
       "id": 85,
       "name": "Whistler Golf Club, First hole",
-      "linkVideo": "https://www.youtube.com/watch?v=JVQaZtahjwg",
+      "linkVideo": "https://youtu.be/gtXbXdk8kww",
       "latitude": 50.1163,
       "longitude": -122.945,
       "premium": true,
@@ -2456,7 +2456,7 @@
     {
       "id": 272,
       "name": "Elvis' Beach Bar",
-      "linkVideo": "https://www.youtube.com/live/SPj4hMttgJM?feature=shared",
+      "linkVideo": "https://www.youtube.com/live/SPj4hMttgJM",
       "latitude": 18.203271454131144,
       "longitude": -63.091130338518354,
       "premium": true,
@@ -2474,7 +2474,7 @@
     {
       "id": 274,
       "name": "Tokyo Shinjuku Kabukicho",
-      "linkVideo": "https://www.youtube.com/live/gFRtAAmiFbE?feature=shared",
+      "linkVideo": "https://www.youtube.com/live/gFRtAAmiFbE",
       "latitude": 35.696384,
       "longitude": 139.702183,
       "premium": true,
@@ -2483,7 +2483,7 @@
     {
       "id": 275,
       "name": "Kusatsu Onsen \"Yubata\" in front of the Yutaki waterfall",
-      "linkVideo": "https://www.youtube.com/live/GrEEoEmmrKs?feature=shared",
+      "linkVideo": "https://www.youtube.com/live/GrEEoEmmrKs",
       "latitude": 36.644953,
       "longitude": 138.595987,
       "premium": true,
@@ -2501,7 +2501,7 @@
     {
       "id": 277,
       "name": "Peace Bridge - Canadian Inspection Lanes",
-      "linkVideo": "https://www.youtube.com/live/WPMgP2C3_co?feature=shared",
+      "linkVideo": "https://www.youtube.com/live/WPMgP2C3_co",
       "latitude": 42.909311,
       "longitude": -78.906932,
       "premium": true,
@@ -2510,7 +2510,7 @@
     {
       "id": 278,
       "name": "Weymouth Harbour",
-      "linkVideo": "https://www.youtube.com/live/oXECyHh01Bc?feature=shared",
+      "linkVideo": "https://www.youtube.com/live/oXECyHh01Bc",
       "latitude": 50.607425,
       "longitude": -2.45225,
       "premium": true,
@@ -2519,7 +2519,7 @@
     {
       "id": 279,
       "name": "Weymouth Pavilion",
-      "linkVideo": "https://www.youtube.com/live/rKDXSNTCMDU?feature=shared",
+      "linkVideo": "https://www.youtube.com/live/rKDXSNTCMDU",
       "latitude": 50.608816818520026,
       "longitude": -2.4488211697770623,
       "premium": true,
@@ -2528,7 +2528,7 @@
     {
       "id": 280,
       "name": "Old Harbour Dive Centre",
-      "linkVideo": "https://www.youtube.com/live/m6BvcBftdHA?feature=shared",
+      "linkVideo": "https://www.youtube.com/live/m6BvcBftdHA",
       "latitude": 50.616496,
       "longitude": -2.455229,
       "premium": true,
@@ -2599,4 +2599,5 @@
     }
   ]
 }
+
 
