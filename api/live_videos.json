@@ -2519,7 +2519,7 @@
     {
       "id": 279,
       "name": "Weymouth Pavilion",
-      "linkVideo": "https://www.youtube.com/live/rKDXSNTCMDU",
+      "linkVideo": "https://youtu.be/rKDXSNTCMDU",
       "latitude": 50.608816818520026,
       "longitude": -2.4488211697770623,
       "premium": true,
@@ -2599,6 +2599,7 @@
     }
   ]
 }
+
 
 
 
