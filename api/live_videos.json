@@ -2474,7 +2474,7 @@
     {
       "id": 274,
       "name": "Tokyo Shinjuku Kabukicho",
-      "linkVideo": "https://www.youtube.com/live/gFRtAAmiFbE",
+      "linkVideo": "https://youtu.be/gFRtAAmiFbE",
       "latitude": 35.696384,
       "longitude": 139.702183,
       "premium": true,
@@ -2483,7 +2483,7 @@
     {
       "id": 275,
       "name": "Kusatsu Onsen \"Yubata\" in front of the Yutaki waterfall",
-      "linkVideo": "https://www.youtube.com/live/GrEEoEmmrKs",
+      "linkVideo": "https://youtu.be/GrEEoEmmrKs",
       "latitude": 36.644953,
       "longitude": 138.595987,
       "premium": true,
@@ -2501,7 +2501,7 @@
     {
       "id": 277,
       "name": "Peace Bridge - Canadian Inspection Lanes",
-      "linkVideo": "https://www.youtube.com/live/WPMgP2C3_co",
+      "linkVideo": "https://youtu.be/WPMgP2C3_co",
       "latitude": 42.909311,
       "longitude": -78.906932,
       "premium": true,
@@ -2510,7 +2510,7 @@
     {
       "id": 278,
       "name": "Weymouth Harbour",
-      "linkVideo": "https://www.youtube.com/live/oXECyHh01Bc",
+      "linkVideo": "https://youtu.be/oXECyHh01Bc",
       "latitude": 50.607425,
       "longitude": -2.45225,
       "premium": true,
@@ -2528,7 +2528,7 @@
     {
       "id": 280,
       "name": "Old Harbour Dive Centre",
-      "linkVideo": "https://www.youtube.com/live/m6BvcBftdHA",
+      "linkVideo": "https://youtu.be/rKDXSNTCMDU",
       "latitude": 50.616496,
       "longitude": -2.455229,
       "premium": true,
@@ -2599,5 +2599,6 @@
     }
   ]
 }
+
 
 
