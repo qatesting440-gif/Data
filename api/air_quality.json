@@ -201,16 +201,6 @@
       "humidity": 50
     },
     {
-      "flag": "",
-      "city": "Doha",
-      "country": "Qatar",
-      "aqi": "85",
-      "aqiValue": 85,
-      "co2": 435,
-      "air": 22,
-      "humidity": 50
-    },
-    {
       "flag": "ic_flag_uae",
       "city": "Dubai",
       "country": "UAE",
