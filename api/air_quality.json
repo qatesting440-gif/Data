@@ -1,0 +1,534 @@
+{
+  "data": [
+    {
+      "flag": "ic_flag_india",
+      "city": "Delhi",
+      "country": "India",
+      "aqi": "219",
+      "aqiValue": 219,
+      "co2": 450,
+      "air": 10,
+      "humidity": 70
+    },
+    {
+      "flag": "ic_flag_pakistan",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "aqi": "187",
+      "aqiValue": 187,
+      "co2": 460,
+      "air": 8,
+      "humidity": 75
+    },
+    {
+      "flag": "ic_flag_india",
+      "city": "Mumbai",
+      "country": "India",
+      "aqi": "158",
+      "aqiValue": 158,
+      "co2": 440,
+      "air": 12,
+      "humidity": 65
+    },
+    {
+      "flag": "ic_flag_vietnam",
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "aqi": "188",
+      "aqiValue": 188,
+      "co2": 455,
+      "air": 5,
+      "humidity": 80
+    },
+    {
+      "flag": "",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "aqi": "204",
+      "aqiValue": 204,
+      "co2": 465,
+      "air": 6,
+      "humidity": 68
+    },
+    {
+      "flag": "",
+      "city": "Kabul",
+      "country": "Afghanistan",
+      "aqi": "145",
+      "aqiValue": 145,
+      "co2": 430,
+      "air": 15,
+      "humidity": 55
+    },
+    {
+      "flag": "ic_flag_india",
+      "city": "Kolkata",
+      "country": "India",
+      "aqi": "213",
+      "aqiValue": 213,
+      "co2": 455,
+      "air": 9,
+      "humidity": 72
+    },
+    {
+      "flag": "ic_flag_pakistan",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "aqi": "168",
+      "aqiValue": 168,
+      "co2": 445,
+      "air": 18,
+      "humidity": 60
+    },
+    {
+      "flag": "",
+      "city": "Khathmandu",
+      "country": "Nepal",
+      "aqi": "130",
+      "aqiValue": 130,
+      "co2": 440,
+      "air": 7,
+      "humidity": 70
+    },
+    {
+      "flag": "ic_flag_china",
+      "city": "Hangzhou",
+      "country": "China",
+      "aqi": "157",
+      "aqiValue": 157,
+      "co2": 450,
+      "air": 10,
+      "humidity": 75
+    },
+    {
+      "flag": "ic_flag_china",
+      "city": "Shanghai",
+      "country": "China",
+      "aqi": "110",
+      "aqiValue": 110,
+      "co2": 440,
+      "air": 12,
+      "humidity": 78
+    },
+    {
+      "flag": "ic_flag_russia",
+      "city": "Krasnoyarsk",
+      "country": "Russia",
+      "aqi": "80",
+      "aqiValue": 80,
+      "co2": 420,
+      "air": 14,
+      "humidity": 65
+    },
+    {
+      "flag": "ic_flag_vietnam",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "aqi": "72",
+      "aqiValue": 72,
+      "co2": 435,
+      "air": 8,
+      "humidity": 82
+    },
+    {
+      "flag": "",
+      "city": "Yangon",
+      "country": "Myanmar",
+      "aqi": "95",
+      "aqiValue": 95,
+      "co2": 445,
+      "air": 10,
+      "humidity": 85
+    },
+    {
+      "flag": "ic_flag_china",
+      "city": "Guangzhou",
+      "country": "China",
+      "aqi": "105",
+      "aqiValue": 105,
+      "co2": 445,
+      "air": 11,
+      "humidity": 80
+    },
+    {
+      "flag": "",
+      "city": "Kampala",
+      "country": "Uganda",
+      "aqi": "60",
+      "aqiValue": 60,
+      "co2": 430,
+      "air": 9,
+      "humidity": 70
+    },
+    {
+      "flag": "",
+      "city": "Busan",
+      "country": "South Korea",
+      "aqi": "70",
+      "aqiValue": 70,
+      "co2": 425,
+      "air": 15,
+      "humidity": 60
+    },
+    {
+      "flag": "ic_flag_germany",
+      "city": "Berlin",
+      "country": "Germany",
+      "aqi": "35",
+      "aqiValue": 35,
+      "co2": 410,
+      "air": 18,
+      "humidity": 75
+    },
+    {
+      "flag": "",
+      "city": "Kuwait City",
+      "country": "kuwait",
+      "aqi": "90",
+      "aqiValue": 90,
+      "co2": 440,
+      "air": 20,
+      "humidity": 45
+    },
+    {
+      "flag": "",
+      "city": "Doha",
+      "country": "Qatar",
+      "aqi": "85",
+      "aqiValue": 85,
+      "co2": 435,
+      "air": 22,
+      "humidity": 50
+    },
+    {
+      "flag": "",
+      "city": "Doha",
+      "country": "Qatar",
+      "aqi": "85",
+      "aqiValue": 85,
+      "co2": 435,
+      "air": 22,
+      "humidity": 50
+    },
+    {
+      "flag": "ic_flag_uae",
+      "city": "Dubai",
+      "country": "UAE",
+      "aqi": "75",
+      "aqiValue": 75,
+      "co2": 430,
+      "air": 25,
+      "humidity": 55
+    },
+    {
+      "flag": "ic_flag_china",
+      "city": "Shenzhen",
+      "country": "China",
+      "aqi": "100",
+      "aqiValue": 100,
+      "co2": 445,
+      "air": 10,
+      "humidity": 78
+    },
+    {
+      "flag": "",
+      "city": "Phnom Penh",
+      "country": "Cambodia",
+      "aqi": "90",
+      "aqiValue": 90,
+      "co2": 450,
+      "air": 7,
+      "humidity": 85
+    },
+    {
+      "flag": "",
+      "city": "Bishkek",
+      "country": "Kyrgyzstan",
+      "aqi": "120",
+      "aqiValue": 120,
+      "co2": 440,
+      "air": 12,
+      "humidity": 60
+    },
+    {
+      "flag": "ic_flag_turkey",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "aqi": "65",
+      "aqiValue": 65,
+      "co2": 425,
+      "air": 15,
+      "humidity": 70
+    },
+    {
+      "flag": "ic_flag_uk",
+      "city": "Birmingham",
+      "country": "United Kingdom",
+      "aqi": "40",
+      "aqiValue": 40,
+      "co2": 415,
+      "air": 20,
+      "humidity": 80
+    },
+    {
+      "flag": "ic_flag_japan",
+      "city": "Osaka",
+      "country": "Japan",
+      "aqi": "55",
+      "aqiValue": 55,
+      "co2": 420,
+      "air": 14,
+      "humidity": 65
+    },
+    {
+      "flag": "ic_flag_thailand",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "aqi": "80",
+      "aqiValue": 80,
+      "co2": 440,
+      "air": 10,
+      "humidity": 75
+    },
+    {
+      "flag": "ic_flag_poland",
+      "city": "Krakow",
+      "country": "Poland",
+      "aqi": "95",
+      "aqiValue": 95,
+      "co2": 430,
+      "air": 12,
+      "humidity": 70
+    },
+    {
+      "flag": "",
+      "city": "Baghdad",
+      "country": "Iraq",
+      "aqi": "110",
+      "aqiValue": 110,
+      "co2": 450,
+      "air": 18,
+      "humidity": 50
+    },
+    {
+      "flag": "ic_flag_japan",
+      "city": "Kobe",
+      "country": "Japan",
+      "aqi": "50",
+      "aqiValue": 50,
+      "co2": 420,
+      "air": 13,
+      "humidity": 68
+    },
+    {
+      "flag": "",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "aqi": "60",
+      "aqiValue": 60,
+      "co2": 430,
+      "air": 15,
+      "humidity": 75
+    },
+    {
+      "flag": "ic_flag_thailand",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "aqi": "120",
+      "aqiValue": 120,
+      "co2": 445,
+      "air": 8,
+      "humidity": 70
+    },
+    {
+      "flag": "ic_flag_indonesia",
+      "city": "Medan",
+      "country": "Indonesia",
+      "aqi": "100",
+      "aqiValue": 100,
+      "co2": 450,
+      "air": 9,
+      "humidity": 82
+    },
+    {
+      "flag": "",
+      "city": "San Francisco",
+      "country": "USA",
+      "aqi": "45",
+      "aqiValue": 45,
+      "co2": 410,
+      "air": 20,
+      "humidity": 65
+    },
+    {
+      "flag": "ic_flag_japan",
+      "city": "Tokyo",
+      "country": "Japan",
+      "aqi": "40",
+      "aqiValue": 40,
+      "co2": 415,
+      "air": 12,
+      "humidity": 60
+    },
+    {
+      "flag": "ic_flag_arab",
+      "city": "Riyadh",
+      "country": "Saudi Arabia",
+      "aqi": "90",
+      "aqiValue": 90,
+      "co2": 440,
+      "air": 25,
+      "humidity": 40
+    },
+    {
+      "flag": "ic_flag_mexico",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "aqi": "70",
+      "aqiValue": 70,
+      "co2": 435,
+      "air": 10,
+      "humidity": 55
+    },
+    {
+      "flag": "ic_flag_ukraine",
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "aqi": "55",
+      "aqiValue": 55,
+      "co2": 420,
+      "air": 18,
+      "humidity": 70
+    },
+    {
+      "flag": "",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "aqi": "50",
+      "aqiValue": 50,
+      "co2": 425,
+      "air": 12,
+      "humidity": 65
+    },
+    {
+      "flag": "ic_flag_romania",
+      "city": "Bucharest",
+      "country": "Romania",
+      "aqi": "60",
+      "aqiValue": 60,
+      "co2": 425,
+      "air": 15,
+      "humidity": 68
+    },
+    {
+      "flag": "ic_flag_portugal",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "aqi": "35",
+      "aqiValue": 35,
+      "co2": 410,
+      "air": 20,
+      "humidity": 75
+    },
+    {
+      "flag": "ic_flag_indonesia",
+      "city": "Jakarta",
+      "country": "Indonesia",
+      "aqi": "105",
+      "aqiValue": 105,
+      "co2": 450,
+      "air": 8,
+      "humidity": 80
+    },
+    {
+      "flag": "",
+      "city": "Cairo",
+      "country": "Egypt",
+      "aqi": "227",
+      "aqiValue": 227,
+      "co2": 460,
+      "air": 14,
+      "humidity": 50
+    },
+    {
+      "flag": "",
+      "city": "Washigton",
+      "country": "USA",
+      "aqi": "40",
+      "aqiValue": 40,
+      "co2": 415,
+      "air": 18,
+      "humidity": 60
+    },
+    {
+      "flag": "",
+      "city": "Chicago",
+      "country": "USA",
+      "aqi": "45",
+      "aqiValue": 45,
+      "co2": 420,
+      "air": 22,
+      "humidity": 65
+    },
+    {
+      "flag": "",
+      "city": "Singapore",
+      "country": "Singapore",
+      "aqi": "50",
+      "aqiValue": 50,
+      "co2": 425,
+      "air": 15,
+      "humidity": 78
+    },
+    {
+      "flag": "",
+      "city": "Sydney",
+      "country": "Australia",
+      "aqi": "30",
+      "aqiValue": 30,
+      "co2": 405,
+      "air": 20,
+      "humidity": 70
+    },
+    {
+      "flag": "",
+      "city": "Toronto",
+      "country": "Canada",
+      "aqi": "35",
+      "aqiValue": 35,
+      "co2": 410,
+      "air": 18,
+      "humidity": 65
+    },
+    {
+      "flag": "",
+      "city": "New York",
+      "country": "USA",
+      "aqi": "49",
+      "aqiValue": 49,
+      "co2": 415,
+      "air": 16,
+      "humidity": 68
+    },
+    {
+      "flag": "ic_flag_italy",
+      "city": "Rome",
+      "country": "Italy",
+      "aqi": "45",
+      "aqiValue": 45,
+      "co2": 420,
+      "air": 14,
+      "humidity": 70
+    },
+    {
+      "flag": "ic_flag_france",
+      "city": "Paris",
+      "country": "France",
+      "aqi": "40",
+      "aqiValue": 40,
+      "co2": 415,
+      "air": 20,
+      "humidity": 75
+    }
+  ]
+}
