@@ -514,11 +514,11 @@
       "flag": "ic_flag_france",
       "city": "Paris",
       "country": "France",
-      "aqi": "40",
-      "aqiValue": 40,
+      "aqi": "45",
+      "aqiValue": 45,
       "co2": 415,
-      "air": 20,
-      "humidity": 75
+      "air": 18,
+      "humidity": 70
     }
   ]
 }
