@@ -782,7 +782,7 @@
     {
       "id": 86,
       "name": "Plaza de Espana, Vigo",
-      "linkVideo": "https://www.youtube.com/watch?v=f5gxcYb0XCg",
+      "linkVideo": "https://youtu.be/f5gxcYb0XCg",
       "latitude": 42.2377,
       "longitude": -8.7278,
       "premium": true,
@@ -808,8 +808,8 @@
     },
     {
       "id": 89,
-      "name": "Playa de Altea Beach, Alicante",
-      "linkVideo": "https://www.youtube.com/watch?v=hvsK8Fvz4rE",
+      "name": "Playa del Albir Beach",
+      "linkVideo": "https://youtu.be/mdOqWWUxIJw",
       "latitude": 38.5996,
       "longitude": -0.0491,
       "premium": true,
