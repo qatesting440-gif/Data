@@ -845,11 +845,11 @@
     {
       "id": 93,
       "name": "Oplympic Plaza, Cyprss Moutain",
-      "linkVideo": "https://www.youtube.com/watch?v=OSKgIDnBwwQ",
+      "linkVideo": "https://youtu.be/IEhDUXECe_k",
       "latitude": 50.115,
       "longitude": -122.949,
       "premium": true,
-      "cat": "Airport"
+      "cat": "Street"
     },
     {
       "id": 94,
@@ -962,11 +962,11 @@
     {
       "id": 106,
       "name": "Railcam Girona Centre",
-      "linkVideo": "https://youtu.be/ld87T3g_nyg",
+      "linkVideo": "https://youtu.be/6nw0GZyYX5o",
       "latitude": 41.9796,
       "longitude": 2.8241,
       "premium": true,
-      "cat": "Airport"
+      "cat": "Railway Station"
     },
     {
       "id": 107,
@@ -988,8 +988,8 @@
     },
     {
       "id": 109,
-      "name": "Anglesea Golf Club, Australia",
-      "linkVideo": "https://www.youtube.com/watch?v=DbLMSFvB2Og",
+      "name": "Plantation Golf Club",
+      "linkVideo": "https://youtu.be/ZcvUDEDw17I",
       "latitude": -38.406,
       "longitude": 144.1886,
       "premium": true,
@@ -1078,8 +1078,8 @@
     },
     {
       "id": 119,
-      "name": "Ski resort, view 2, Mount Buller",
-      "linkVideo": "https://www.youtube.com/watch?v=0OtVlfDj2w8",
+      "name": "Fort William Live Webcam - Scotland",
+      "linkVideo": "https://youtu.be/8miQ3QXA26Q",
       "latitude": -37.1467,
       "longitude": 146.4235,
       "premium": true,
@@ -1312,8 +1312,8 @@
     },
     {
       "id": 145,
-      "name": "Spiaggia di Montedarena, Taranto",
-      "linkVideo": "https://www.youtube.com/watch?v=fiMBjNfjBCU",
+      "name": "Bari Sardo - Sardegna",
+      "linkVideo": "https://youtu.be/xNmvMyDRq0I",
       "latitude": 40.4518,
       "longitude": 17.2462,
       "premium": true,
@@ -1394,11 +1394,11 @@
     {
       "id": 154,
       "name": "Carosello 3000 - Livigno",
-      "linkVideo": "https://youtu.be/KXZZQsVdcFE",
+      "linkVideo": "https://youtu.be/L1H_QmN-Ru8",
       "latitude": 46.5294,
       "longitude": 10.1398,
       "premium": true,
-      "cat": "Airport"
+      "cat": "Mountain"
     },
     {
       "id": 155,
@@ -1474,8 +1474,8 @@
     },
     {
       "id": 163,
-      "name": "Arch of San Lazzaro, Parma",
-      "linkVideo": "https://www.youtube.com/watch?v=vSpQq5EnBvU",
+      "name": "Arco di San Lazzaro",
+      "linkVideo": "https://youtu.be/sRLO2S9j2FU",
       "latitude": 44.8015,
       "longitude": 10.334,
       "premium": true,
@@ -1483,7 +1483,7 @@
     },
     {
       "id": 164,
-      "name": "Beach Torre di Bari",
+      "name": "Bari Sardo - Sardegna",
       "linkVideo": "https://www.youtube.com/watch?v=xNmvMyDRq0I",
       "latitude": 39.8483,
       "longitude": 9.6787,
