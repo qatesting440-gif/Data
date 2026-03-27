@@ -1,0 +1,994 @@
+{
+  "data": [
+    {
+      "country_name": "Pakistan",
+      "places": [
+        {
+          "place_name": "Badshahi Mosque",
+          "details": "One of the largest mosques in the world, built during the Mughal era by Emperor Aurangzeb.",
+          "address": "Walled City of Lahore, Lahore, Punjab, Pakistan",
+          "lat": 31.58806,
+          "lng": 74.30944,
+          "facts": "Badshahi Mosque was the largest mosque in the world for over 300 years.",
+          "images": [
+            "badshahi_mosque"
+          ]
+        },
+        {
+          "place_name": "Faisal Mosque",
+          "details": "The national mosque of Pakistan, known for its unique modern design inspired by a desert tent.",
+          "address": "Faisal Avenue, Islamabad, Pakistan",
+          "lat": 33.72972,
+          "lng": 73.03722,
+          "facts": "It is the largest mosque in South Asia and can accommodate up to 300,000 worshippers.",
+          "images": [
+            "faisal_mosque"
+          ]
+        },
+        {
+          "place_name": "Minar-e-Pakistan",
+          "details": "A national monument built to commemorate the Lahore Resolution of 1940.",
+          "address": "Greater Iqbal Park, Circular Road, Lahore, Punjab, Pakistan",
+          "lat": 31.5925,
+          "lng": 74.3095,
+          "facts": "The tower stands 62 meters tall and offers a panoramic view of Lahore.",
+          "images": [
+            "minar_e_pakistan"
+          ]
+        },
+        {
+          "place_name": "Hunza Valley",
+          "details": "A beautiful mountainous valley known for its stunning landscapes, apricot orchards, and friendly people.",
+          "address": "Gilgit-Baltistan, Pakistan",
+          "lat": 36.3167,
+          "lng": 74.6500,
+          "facts": "Often called the 'Heaven on Earth' due to its breathtaking natural beauty.",
+          "images": [
+            "hunza_valley"
+          ]
+        },
+        {
+          "place_name": "Skardu",
+          "details": "A scenic town surrounded by high peaks and known for its lakes and adventure tourism.",
+          "address": "Skardu, Gilgit-Baltistan, Pakistan",
+          "lat": 35.3000,
+          "lng": 75.6333,
+          "facts": "It serves as the gateway to some of the world's highest peaks including K2.",
+          "images": [
+            "skardu"
+          ]
+        },
+        {
+          "place_name": "Saif-ul-Malook Lake",
+          "details": "A stunning high-altitude lake surrounded by snow-capped mountains.",
+          "address": "Kaghan Valley, Mansehra, Khyber Pakhtunkhwa, Pakistan",
+          "lat": 34.8833,
+          "lng": 73.7000,
+          "facts": "Famous for the legendary love story of Prince Saif and Princess Badar Jamal.",
+          "images": [
+            "saif_ul_malook_lake"
+          ]
+        },
+        {
+          "place_name": "Mohenjo-daro",
+          "details": "One of the largest settlements of the ancient Indus Valley Civilization.",
+          "address": "Larkana District, Sindh, Pakistan",
+          "lat": 27.3290,
+          "lng": 68.1380,
+          "facts": "A UNESCO World Heritage Site dating back to 2500 BCE.",
+          "images": [
+            "mohenjo_daro"
+          ]
+        },
+        {
+          "place_name": "K2",
+          "details": "The second highest mountain in the world, known as the Savage Mountain.",
+          "address": "Gilgit-Baltistan, Pakistan (near China border)",
+          "lat": 35.8825,
+          "lng": 76.5133,
+          "facts": "It has the second-highest fatality rate among the eight-thousanders.",
+          "images": [
+            "k2"
+          ]
+        },
+        {
+          "place_name": "Shalimar Gardens",
+          "details": "A magnificent Mughal garden built by Emperor Shah Jahan.",
+          "address": "Lahore, Punjab, Pakistan",
+          "lat": 31.5900,
+          "lng": 74.3833,
+          "facts": "UNESCO World Heritage Site featuring Persian-style architecture and fountains.",
+          "images": [
+            "shalimar_garden"
+          ]
+        },
+        {
+          "place_name": "Quaid-e-Azam Mausoleum",
+          "details": "The final resting place of Muhammad Ali Jinnah, founder of Pakistan.",
+          "address": "Karachi, Sindh, Pakistan",
+          "lat": 24.8750,
+          "lng": 67.0408,
+          "facts": "An iconic white marble monument that symbolizes the birth of Pakistan.",
+          "images": [
+            "quaid_e_azam_mausoleum"
+          ]
+        },
+        {
+          "place_name": "Gwadar Beach",
+          "details": "A pristine beach along the Arabian Sea in the strategic port city of Gwadar.",
+          "address": "Gwadar, Balochistan, Pakistan",
+          "lat": 25.1264,
+          "lng": 62.3228,
+          "facts": "Part of the China-Pakistan Economic Corridor (CPEC) project.",
+          "images": [
+            "gwadar_beach"
+          ]
+        },
+        {
+          "place_name": "Deosai National Park",
+          "details": "One of the highest plateaus in the world, known as the 'Land of Giants'.",
+          "address": "Gilgit-Baltistan, Pakistan",
+          "lat": 35.0000,
+          "lng": 75.5000,
+          "facts": "Famous for its vast meadows, wildflowers, and Himalayan brown bears.",
+          "images": [
+            "deosai_national_park"
+          ]
+        }
+      ]
+    },
+    {
+      "country_name": "Japan",
+      "places": [
+        {
+          "place_name": "Mount Fuji",
+          "details": "Japan's highest mountain and most iconic landmark.",
+          "address": "Yamanashi and Shizuoka Prefectures, Japan",
+          "lat": 35.3606,
+          "lng": 138.7274,
+          "facts": "A UNESCO World Heritage Site and sacred mountain in Japanese culture.",
+          "images": [
+            "mount_fuji"
+          ]
+        },
+        {
+          "place_name": "Kinkaku-ji",
+          "details": "The Golden Pavilion, a Zen Buddhist temple covered in gold leaf.",
+          "address": "Kyoto, Japan",
+          "lat": 35.0394,
+          "lng": 135.7292,
+          "facts": "UNESCO World Heritage Site and one of Kyoto's most famous landmarks.",
+          "images": [
+            "kinkaku_ji"
+          ]
+        },
+        {
+          "place_name": "Tokyo Skytree",
+          "details": "The tallest tower in the world, offering stunning panoramic views of Tokyo.",
+          "address": "Sumida, Tokyo, Japan",
+          "lat": 35.7101,
+          "lng": 139.8107,
+          "facts": "It stands at 634 meters and is a major broadcasting and observation tower.",
+          "images": [
+            "tokyo_skytree"
+          ]
+        },
+        {
+          "place_name": "Fushimi Inari-taisha",
+          "details": "A famous Shinto shrine known for its thousands of red torii gates.",
+          "address": "Kyoto, Japan",
+          "lat": 34.9671,
+          "lng": 135.7727,
+          "facts": "The trails lead up the mountain through endless vermilion gates.",
+          "images": [
+            "fushimi_inari_taisha"
+          ]
+        },
+        {
+          "place_name": "Osaka Castle",
+          "details": "A magnificent castle surrounded by a large park and moat.",
+          "address": "Osaka, Japan",
+          "lat": 34.6873,
+          "lng": 135.5262,
+          "facts": "One of Japan's most famous landmarks with a rich history of samurai battles.",
+          "images": [
+            "osaka_castle"
+          ]
+        },
+        {
+          "place_name": "Senso-ji Temple",
+          "details": "Tokyo's oldest Buddhist temple, a major tourist attraction.",
+          "address": "Asakusa, Tokyo, Japan",
+          "lat": 35.7148,
+          "lng": 139.7967,
+          "facts": "Famous for its large red lantern (Kaminarimon) at the entrance.",
+          "images": [
+            "senso_ji_temple"
+          ]
+        },
+        {
+          "place_name": "Himeji Castle",
+          "details": "One of the finest surviving examples of Japanese castle architecture.",
+          "address": "Himeji, Hyogo Prefecture, Japan",
+          "lat": 34.8394,
+          "lng": 134.6939,
+          "facts": "UNESCO World Heritage Site nicknamed 'White Heron Castle'.",
+          "images": [
+            "himeji_castle"
+          ]
+        }
+      ]
+    },
+    {
+      "country_name": "India",
+      "places": [
+        {
+          "place_name": "Taj Mahal",
+          "details": "An iconic white marble mausoleum built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+          "address": "Agra, Uttar Pradesh, India",
+          "lat": 27.1751,
+          "lng": 78.0421,
+          "facts": "UNESCO World Heritage Site and one of the New Seven Wonders of the World.",
+          "images": [
+            "taj_mahal"
+          ]
+        },
+        {
+          "place_name": "Qutub Minar",
+          "details": "The tallest brick minaret in the world.",
+          "address": "Delhi, India",
+          "lat": 28.5244,
+          "lng": 77.1855,
+          "facts": "A UNESCO World Heritage Site built in the 12th century.",
+          "images": [
+            "qutub_minar"
+          ]
+        },
+        {
+          "place_name": "Red Fort",
+          "details": "A historic fort built by Emperor Shah Jahan.",
+          "address": "Delhi, India",
+          "lat": 28.6562,
+          "lng": 77.2410,
+          "facts": "UNESCO World Heritage Site and former main residence of Mughal emperors.",
+          "images": [
+            "red_fort"
+          ]
+        },
+        {
+          "place_name": "Kashmir Valley",
+          "details": "A breathtaking valley surrounded by the Himalayas.",
+          "address": "Jammu and Kashmir, India",
+          "lat": 34.0000,
+          "lng": 74.8333,
+          "facts": "Known as 'Paradise on Earth' for its natural beauty and houseboats.",
+          "images": [
+            "kashmir_valley"
+          ]
+        },
+        {
+          "place_name": "Gateway of India",
+          "details": "A historic monument built to commemorate the visit of King George V.",
+          "address": "Mumbai, Maharashtra, India",
+          "lat": 18.9220,
+          "lng": 72.8347,
+          "facts": "An iconic landmark overlooking the Arabian Sea.",
+          "images": [
+            "gateway_of_india"
+          ]
+        },
+        {
+          "place_name": "Hawa Mahal",
+          "details": "A palace with a unique honeycomb-like facade.",
+          "address": "Jaipur, Rajasthan, India",
+          "lat": 26.9239,
+          "lng": 75.8267,
+          "facts": "Built so royal women could observe street festivals without being seen.",
+          "images": [
+            "hawa_mahal"
+          ]
+        },
+        {
+          "place_name": "Kerala Backwaters",
+          "details": "A network of serene lagoons and canals.",
+          "address": "Kerala, India",
+          "lat": 9.5000,
+          "lng": 76.5000,
+          "facts": "Famous for houseboat cruises through palm-fringed waterways.",
+          "images": [
+            "kerala_backwaters"
+          ]
+        },
+        {
+          "place_name": "Golden Temple",
+          "details": "The holiest Gurdwara of Sikhism.",
+          "address": "Amritsar, Punjab, India",
+          "lat": 31.6200,
+          "lng": 74.8760,
+          "facts": "Its upper floors are covered with real gold.",
+          "images": [
+            "golden_temple"
+          ]
+        }
+      ]
+    },
+    {
+      "country_name": "China",
+      "places": [
+        {
+          "place_name": "The Great Wall",
+          "details": "The longest wall in the world, built to protect ancient China.",
+          "address": "Near Beijing, China",
+          "lat": 40.4319,
+          "lng": 116.5704,
+          "facts": "UNESCO World Heritage Site and one of the New Seven Wonders.",
+          "images": [
+            "the_great_wall"
+          ]
+        },
+        {
+          "place_name": "Forbidden City",
+          "details": "The former imperial palace of the Ming and Qing dynasties.",
+          "address": "Beijing, China",
+          "lat": 39.9163,
+          "lng": 116.3972,
+          "facts": "The world's largest ancient palace complex.",
+          "images": [
+            "forbidden_city"
+          ]
+        },
+        {
+          "place_name": "Terracotta Army",
+          "details": "Thousands of life-sized terracotta sculptures.",
+          "address": "Xi'an, Shaanxi, China",
+          "lat": 34.3840,
+          "lng": 109.2730,
+          "facts": "UNESCO World Heritage Site guarding the tomb of China's first emperor.",
+          "images": [
+            "terracotta_army"
+          ]
+        },
+        {
+          "place_name": "Potala Palace",
+          "details": "The former winter palace of the Dalai Lamas.",
+          "address": "Lhasa, Tibet, China",
+          "lat": 29.6550,
+          "lng": 91.1170,
+          "facts": "A magnificent example of Tibetan Buddhist architecture.",
+          "images": [
+            "potala_palace"
+          ]
+        },
+        {
+          "place_name": "Shanghai Tower",
+          "details": "A supertall skyscraper and one of the tallest buildings in the world.",
+          "address": "Shanghai, China",
+          "lat": 31.2336,
+          "lng": 121.5067,
+          "facts": "It features the world's highest observation deck.",
+          "images": [
+            "shanghai_tower"
+          ]
+        },
+        {
+          "place_name": "Leshan Giant Buddha",
+          "details": "A massive stone statue of Maitreya Buddha carved into a cliff.",
+          "address": "Leshan, Sichuan, China",
+          "lat": 29.5472,
+          "lng": 103.7694,
+          "facts": "UNESCO World Heritage Site and the largest stone Buddha in the world.",
+          "images": [
+            "leshan_giant_buddha"
+          ]
+        },
+        {
+          "place_name": "Temple of Heaven",
+          "details": "A complex of religious buildings used by emperors for annual ceremonies.",
+          "address": "Beijing, China",
+          "lat": 39.8822,
+          "lng": 116.4066,
+          "facts": "UNESCO World Heritage Site with stunning Ming dynasty architecture.",
+          "images": [
+            "temple_of_heaven"
+          ]
+        }
+      ]
+    },
+    {
+      "country_name": "Italy",
+      "places": [
+        {
+          "place_name": "Colosseum",
+          "details": "The largest ancient amphitheatre ever built.",
+          "address": "Rome, Italy",
+          "lat": 41.8902,
+          "lng": 12.4922,
+          "facts": "UNESCO World Heritage Site and symbol of ancient Rome.",
+          "images": [
+            "colosseum"
+          ]
+        },
+        {
+          "place_name": "Leaning Tower Pisa",
+          "details": "The famous tilting bell tower of the cathedral.",
+          "address": "Pisa, Italy",
+          "lat": 43.7230,
+          "lng": 10.3966,
+          "facts": "It began leaning during construction in the 12th century.",
+          "images": [
+            "leaning_tower_pisa"
+          ]
+        },
+        {
+          "place_name": "Florence Cathedral",
+          "details": "The Cathedral of Santa Maria del Fiore with its iconic dome by Brunelleschi.",
+          "address": "Florence, Italy",
+          "lat": 43.7731,
+          "lng": 11.2560,
+          "facts": "UNESCO World Heritage Site and a masterpiece of Renaissance architecture.",
+          "images": [
+            "florence_cathedral"
+          ]
+        },
+        {
+          "place_name": "Trevi Fountain",
+          "details": "A beautiful baroque fountain and one of the most famous in the world.",
+          "address": "Rome, Italy",
+          "lat": 41.9009,
+          "lng": 12.4833,
+          "facts": "Throwing a coin into the fountain is said to guarantee a return to Rome.",
+          "images": [
+            "trevi_fountain"
+          ]
+        },
+        {
+          "place_name": "Pantheon",
+          "details": "A former Roman temple, now a church.",
+          "address": "Rome, Italy",
+          "lat": 41.8986,
+          "lng": 12.4768,
+          "facts": "It has the world's largest unreinforced concrete dome.",
+          "images": [
+            "pantheon"
+          ]
+        },
+        {
+          "place_name": "St. Mark's Basilica",
+          "details": "The cathedral church of Venice, famous for its Byzantine architecture.",
+          "address": "Venice, Italy",
+          "lat": 45.4345,
+          "lng": 12.3398,
+          "facts": "Known for its golden mosaics and treasures from the Crusades.",
+          "images": [
+            "st_marks_basilica"
+          ]
+        },
+        {
+          "place_name": "Milan Cathedral",
+          "details": "A magnificent Gothic cathedral in the heart of Milan.",
+          "address": "Milan, Italy",
+          "lat": 45.4642,
+          "lng": 9.1919,
+          "facts": "It took nearly six centuries to complete and features over 3,000 statues.",
+          "images": [
+            "milan_cathedral"
+          ]
+        }
+      ]
+    },
+    {
+      "country_name": "Australia",
+      "places": [
+        {
+          "place_name": "Sydney Opera House",
+          "details": "A world-famous performing arts centre with distinctive sail-like design.",
+          "address": "Sydney, New South Wales, Australia",
+          "lat": -33.8568,
+          "lng": 151.2153,
+          "facts": "UNESCO World Heritage Site and iconic symbol of Australia.",
+          "images": [
+            "sydney_opera_house"
+          ]
+        },
+        {
+          "place_name": "Uluru (Ayers Rock)",
+          "details": "A massive sandstone monolith in the heart of the Australian outback.",
+          "address": "Northern Territory, Australia",
+          "lat": -25.3444,
+          "lng": 131.0369,
+          "facts": "Sacred to the Anangu Aboriginal people and UNESCO World Heritage Site.",
+          "images": [
+            "uluru_ayers_rock"
+          ]
+        },
+        {
+          "place_name": "Great Barrier Reef",
+          "details": "The world's largest coral reef system.",
+          "address": "Off the coast of Queensland, Australia",
+          "lat": -18.2871,
+          "lng": 147.6992,
+          "facts": "UNESCO World Heritage Site and visible from space.",
+          "images": [
+            "great_barrier_reef"
+          ]
+        },
+        {
+          "place_name": "Sydney Harbour Bridge",
+          "details": "A famous steel arch bridge spanning Sydney Harbour.",
+          "address": "Sydney, New South Wales, Australia",
+          "lat": -33.8523,
+          "lng": 151.2108,
+          "facts": "Locals call it 'The Coathanger' due to its shape.",
+          "images": [
+            "sydney_harbour_bridge"
+          ]
+        },
+        {
+          "place_name": "Twelve Apostles",
+          "details": "A collection of limestone stacks off the shore of the Great Ocean Road.",
+          "address": "Victoria, Australia",
+          "lat": -38.6657,
+          "lng": 143.1042,
+          "facts": "A major tourist attraction along the scenic Great Ocean Road.",
+          "images": [
+            "twelve_apostles"
+          ]
+        },
+        {
+          "place_name": "Blue Mountains",
+          "details": "A mountainous region known for its dramatic scenery and eucalyptus forests.",
+          "address": "New South Wales, Australia",
+          "lat": -33.7000,
+          "lng": 150.3000,
+          "facts": "UNESCO World Heritage Site famous for the 'Three Sisters' rock formation.",
+          "images": [
+            "blue_mountains"
+          ]
+        },
+        {
+          "place_name": "Parliament House",
+          "details": "The meeting place of the Parliament of Australia.",
+          "address": "Canberra, Australian Capital Territory, Australia",
+          "lat": -35.3082,
+          "lng": 149.1244,
+          "facts": "Its design incorporates many Australian symbols and sustainable features.",
+          "images": [
+            "parliament_house"
+          ]
+        }
+      ]
+    },
+    {
+      "country_name": "United Kingdom (UK)",
+      "places": [
+        {
+          "place_name": "Big Ben",
+          "details": "The iconic clock tower of the Palace of Westminster.",
+          "address": "London, England",
+          "lat": 51.5007,
+          "lng": -0.1246,
+          "facts": "Officially known as the Elizabeth Tower since 2012.",
+          "images": [
+            "big_ben"
+          ]
+        },
+        {
+          "place_name": "Stonehenge",
+          "details": "A prehistoric monument of standing stones.",
+          "address": "Wiltshire, England",
+          "lat": 51.1789,
+          "lng": -1.8262,
+          "facts": "UNESCO World Heritage Site over 5,000 years old.",
+          "images": [
+            "stonehenge"
+          ]
+        },
+        {
+          "place_name": "London Eye",
+          "details": "A giant Ferris wheel on the South Bank of the River Thames.",
+          "address": "London, England",
+          "lat": 51.5033,
+          "lng": -0.1196,
+          "facts": "It offers spectacular views of the London skyline.",
+          "images": [
+            "london_eye"
+          ]
+        },
+        {
+          "place_name": "Tower Bridge",
+          "details": "A famous bascule and suspension bridge crossing the River Thames.",
+          "address": "London, England",
+          "lat": 51.5055,
+          "lng": -0.0754,
+          "facts": "Often mistakenly called London Bridge.",
+          "images": [
+            "tower_bridge"
+          ]
+        },
+        {
+          "place_name": "Edinburgh Castle",
+          "details": "A historic fortress dominating the skyline of Edinburgh.",
+          "address": "Edinburgh, Scotland",
+          "lat": 55.9486,
+          "lng": -3.2008,
+          "facts": "One of the most important historic sites in Scotland.",
+          "images": [
+            "edinburgh_castle"
+          ]
+        },
+        {
+          "place_name": "Buckingham Palace",
+          "details": "The official London residence of the British monarch.",
+          "address": "London, England",
+          "lat": 51.5014,
+          "lng": -0.1419,
+          "facts": "Famous for the Changing of the Guard ceremony.",
+          "images": [
+            "buckingham_palace"
+          ]
+        },
+        {
+          "place_name": "The Shard",
+          "details": "A 95-storey skyscraper and one of the tallest buildings in Europe.",
+          "address": "London, England",
+          "lat": 51.5045,
+          "lng": -0.0865,
+          "facts": "It offers one of the highest public viewing galleries in London.",
+          "images": [
+            "the_shard"
+          ]
+        }
+      ]
+    },
+    {
+      "country_name": "Spain",
+      "places": [
+        {
+          "place_name": "Sagrada Família",
+          "details": "The iconic unfinished basilica designed by Antoni Gaudí.",
+          "address": "Barcelona, Spain",
+          "lat": 41.4036,
+          "lng": 2.1744,
+          "facts": "Expected to be completed in 2026, over 140 years after construction began.",
+          "images": [
+            "sagrada_familia"
+          ]
+        },
+        {
+          "place_name": "Alhambra",
+          "details": "A magnificent palace and fortress complex.",
+          "address": "Granada, Spain",
+          "lat": 37.1769,
+          "lng": -3.5890,
+          "facts": "UNESCO World Heritage Site representing Moorish architecture.",
+          "images": [
+            "alhambra"
+          ]
+        },
+        {
+          "place_name": "Park Güell",
+          "details": "A public park designed by Antoni Gaudí.",
+          "address": "Barcelona, Spain",
+          "lat": 41.4145,
+          "lng": 2.1527,
+          "facts": "UNESCO World Heritage Site known for its colorful mosaics.",
+          "images": [
+            "park_guell"
+          ]
+        },
+        {
+          "place_name": "Royal Palace Madrid",
+          "details": "The official residence of the Spanish royal family.",
+          "address": "Madrid, Spain",
+          "lat": 40.4180,
+          "lng": -3.7143,
+          "facts": "One of the largest palaces in Europe by floor area.",
+          "images": [
+            "royal_palace_of_madrid"
+          ]
+        },
+        {
+          "place_name": "Seville Cathedral",
+          "details": "The largest Gothic cathedral in the world.",
+          "address": "Seville, Spain",
+          "lat": 37.3859,
+          "lng": -5.9930,
+          "facts": "UNESCO World Heritage Site and burial place of Christopher Columbus.",
+          "images": [
+            "seville_cathedral"
+          ]
+        },
+        {
+          "place_name": "Ibiza",
+          "details": "A famous Mediterranean island known for its nightlife and beaches.",
+          "address": "Balearic Islands, Spain",
+          "lat": 39.0000,
+          "lng": 1.4000,
+          "facts": "UNESCO World Heritage Site for its biodiversity and cultural heritage.",
+          "images": [
+            "ibiza"
+          ]
+        },
+        {
+          "place_name": "Mezquita de Córdoba",
+          "details": "A historic mosque-cathedral with stunning Islamic architecture.",
+          "address": "Córdoba, Spain",
+          "lat": 37.8789,
+          "lng": -4.7794,
+          "facts": "UNESCO World Heritage Site famous for its forest of columns.",
+          "images": [
+            "mezquita_de_cordoba"
+          ]
+        }
+      ]
+    },
+    {
+      "country_name": "United States",
+      "places": [
+        {
+          "place_name": "Statue of Liberty",
+          "details": "A colossal neoclassical sculpture on Liberty Island.",
+          "address": "New York City, USA",
+          "lat": 40.6892,
+          "lng": -74.0445,
+          "facts": "A gift from France symbolizing freedom and democracy.",
+          "images": [
+            "statue_of_liberty"
+          ]
+        },
+        {
+          "place_name": "Empire State Building",
+          "details": "A famous Art Deco skyscraper in Midtown Manhattan.",
+          "address": "New York City, USA",
+          "lat": 40.7484,
+          "lng": -73.9857,
+          "facts": "It was the tallest building in the world for nearly 40 years.",
+          "images": [
+            "empire_state_building"
+          ]
+        },
+        {
+          "place_name": "Golden Gate Bridge",
+          "details": "An iconic suspension bridge spanning the Golden Gate strait.",
+          "address": "San Francisco, California, USA",
+          "lat": 37.8199,
+          "lng": -122.4783,
+          "facts": "One of the most photographed bridges in the world.",
+          "images": [
+            "golden_gate_bridge"
+          ]
+        },
+        {
+          "place_name": "Grand Canyon",
+          "details": "A massive canyon carved by the Colorado River.",
+          "address": "Arizona, USA",
+          "lat": 36.0544,
+          "lng": -112.1401,
+          "facts": "One of the world's most spectacular natural wonders.",
+          "images": [
+            "grand_canyon"
+          ]
+        },
+        {
+          "place_name": "Times Square",
+          "details": "A major commercial intersection and entertainment hub.",
+          "address": "New York City, USA",
+          "lat": 40.7580,
+          "lng": -73.9855,
+          "facts": "Known as 'The Crossroads of the World'.",
+          "images": [
+            "times_square"
+          ]
+        },
+        {
+          "place_name": "Hollywood Sign",
+          "details": "The iconic landmark overlooking Hollywood.",
+          "address": "Los Angeles, California, USA",
+          "lat": 34.1341,
+          "lng": -118.3215,
+          "facts": "Originally created as an advertisement for a real estate development.",
+          "images": [
+            "hollywood_sign"
+          ]
+        },
+        {
+          "place_name": "Disney World",
+          "details": "The largest entertainment resort complex in the world.",
+          "address": "Orlando, Florida, USA",
+          "lat": 28.3852,
+          "lng": -81.5639,
+          "facts": "It consists of four theme parks and two water parks.",
+          "images": [
+            "disney_world"
+          ]
+        },
+        {
+          "place_name": "Niagara Falls",
+          "details": "A group of three massive waterfalls on the border between USA and Canada.",
+          "address": "New York, USA / Ontario, Canada",
+          "lat": 43.0799,
+          "lng": -79.0747,
+          "facts": "One of the most famous natural attractions in North America.",
+          "images": [
+            "niagara_falls"
+          ]
+        },
+        {
+          "place_name": "Yellowstone Park",
+          "details": "The world's first national park.",
+          "address": "Wyoming, USA",
+          "lat": 44.4280,
+          "lng": -110.5885,
+          "facts": "Famous for its geothermal features including Old Faithful geyser.",
+          "images": [
+            "yellowstone_park"
+          ]
+        }
+      ]
+    },
+    {
+      "country_name": "South Korea",
+      "places": [
+        {
+          "place_name": "Gyeongbokgung Palace",
+          "details": "The largest and most iconic royal palace of the Joseon dynasty.",
+          "address": "Seoul, South Korea",
+          "lat": 37.5796,
+          "lng": 126.9770,
+          "facts": "Beautifully restored with traditional Korean architecture.",
+          "images": [
+            "gyeongbokgung_palace"
+          ]
+        },
+        {
+          "place_name": "N Seoul Tower",
+          "details": "A communication and observation tower on Namsan Mountain.",
+          "address": "Seoul, South Korea",
+          "lat": 37.5512,
+          "lng": 126.9882,
+          "facts": "Offers panoramic views of the city and is famous for love padlocks.",
+          "images": [
+            "n_seoul_tower"
+          ]
+        },
+        {
+          "place_name": "Bukchon Hanok Village",
+          "details": "A traditional Korean village with preserved hanok houses.",
+          "address": "Seoul, South Korea",
+          "lat": 37.5825,
+          "lng": 126.9833,
+          "facts": "A living museum of Korean traditional culture.",
+          "images": [
+            "bukchon_hanok_village"
+          ]
+        },
+        {
+          "place_name": "Lotte World Tower",
+          "details": "A supertall skyscraper and one of the tallest buildings in the world.",
+          "address": "Seoul, South Korea",
+          "lat": 37.5128,
+          "lng": 127.1025,
+          "facts": "It includes the world's highest observation deck and a luxury hotel.",
+          "images": [
+            "lotte_world_tower"
+          ]
+        },
+        {
+          "place_name": "Jeju Island",
+          "details": "A volcanic island known for its natural beauty and unique culture.",
+          "address": "Jeju, South Korea",
+          "lat": 33.4996,
+          "lng": 126.5312,
+          "facts": "UNESCO World Heritage Site and a popular honeymoon destination.",
+          "images": [
+            "jeju_island"
+          ]
+        },
+        {
+          "place_name": "Bulguksa Temple",
+          "details": "A renowned Buddhist temple complex.",
+          "address": "Gyeongju, South Korea",
+          "lat": 35.7900,
+          "lng": 129.3320,
+          "facts": "UNESCO World Heritage Site and a masterpiece of Silla Kingdom architecture.",
+          "images": [
+            "bulguksa_temple"
+          ]
+        },
+        {
+          "place_name": "Busan Gamcheon Culture Village",
+          "details": "A colorful hillside village known for its artistic murals and houses.",
+          "address": "Busan, South Korea",
+          "lat": 35.1000,
+          "lng": 129.0167,
+          "facts": "Often called the 'Machu Picchu of Korea'.",
+          "images": [
+            "busan_gamcheon_culture_village"
+          ]
+        }
+      ]
+    },
+    {
+      "country_name": "Turkey",
+      "places": [
+        {
+          "place_name": "Hagia Sophia",
+          "details": "A historic cathedral turned mosque turned museum.",
+          "address": "Istanbul, Turkey",
+          "lat": 41.0086,
+          "lng": 28.9802,
+          "facts": "UNESCO World Heritage Site with stunning Byzantine architecture.",
+          "images": [
+            "hagia_sophia"
+          ]
+        },
+        {
+          "place_name": "Cappadocia",
+          "details": "A region famous for its unique rock formations and fairy chimneys.",
+          "address": "Nevşehir Province, Turkey",
+          "lat": 38.6431,
+          "lng": 34.8289,
+          "facts": "Known for hot air balloon rides at sunrise.",
+          "images": [
+            "cappadocia"
+          ]
+        },
+        {
+          "place_name": "Blue Mosque",
+          "details": "An iconic Ottoman-era mosque with six minarets.",
+          "address": "Istanbul, Turkey",
+          "lat": 41.0054,
+          "lng": 28.9768,
+          "facts": "Named for the blue tiles adorning its interior.",
+          "images": [
+            "blue_mosque"
+          ]
+        },
+        {
+          "place_name": "Pamukkale",
+          "details": "Natural thermal pools and travertine terraces.",
+          "address": "Denizli Province, Turkey",
+          "lat": 37.9167,
+          "lng": 29.1167,
+          "facts": "UNESCO World Heritage Site meaning 'Cotton Castle'.",
+          "images": [
+            "pamukkale"
+          ]
+        },
+        {
+          "place_name": "Ephesus",
+          "details": "An ancient Greek city and one of the best-preserved archaeological sites.",
+          "address": "Selçuk, İzmir Province, Turkey",
+          "lat": 37.9399,
+          "lng": 27.3410,
+          "facts": "UNESCO World Heritage Site and home to the Temple of Artemis.",
+          "images": [
+            "ephesus"
+          ]
+        },
+        {
+          "place_name": "Topkapi Palace",
+          "details": "The former residence of Ottoman sultans.",
+          "address": "Istanbul, Turkey",
+          "lat": 41.0136,
+          "lng": 28.9833,
+          "facts": "UNESCO World Heritage Site containing many historical treasures.",
+          "images": [
+            "topkapi_palace"
+          ]
+        },
+        {
+          "place_name": "Galata Tower",
+          "details": "A medieval stone tower offering panoramic views of Istanbul.",
+          "address": "Istanbul, Turkey",
+          "lat": 41.0257,
+          "lng": 28.9742,
+          "facts": "One of the oldest towers in the city with a rich history.",
+          "images": [
+            "galata_tower"
+          ]
+        }
+      ]
+    }
+  ]
+}
