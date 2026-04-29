@@ -4,262 +4,302 @@
       "id": 1,
       "name": "Skopje-North Macedonia",
       "image": "panorama/1761029501619Skopje-North Macedonia.jpg",
-      "premium":false
+      "premium": false,
+      "country": "North Macedonia"
     },
     {
       "id": 2,
       "name": "San Francisco",
       "image": "panorama/1761029434948San Francisco.jpg",
-      "premium":false
+      "premium": false,
+      "country": "USA"
     },
     {
       "id": 3,
       "name": "Regensburg",
       "image": "panorama/1761029377636Regensburg.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Germany"
     },
     {
       "id": 4,
       "name": "New York",
       "image": "panorama/1761029334917New York.jpg",
-      "premium":false
+      "premium": false,
+      "country": "USA"
     },
     {
       "id": 5,
       "name": "Miami",
       "image": "panorama/1761029305819Miami.jpg",
-      "premium":false
+      "premium": false,
+      "country": "USA"
     },
     {
       "id": 6,
       "name": "Marina Bay",
       "image": "panorama/1761029271895Marina Bay.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Singapore"
     },
     {
       "id": 7,
       "name": "Jerusalem",
       "image": "panorama/1761029231116Jerusalem.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Israel"
     },
     {
       "id": 8,
       "name": "HongKong",
       "image": "panorama/1761029188321HongKong.jpg",
-      "premium":false
+      "premium": false,
+      "country": "China"
     },
     {
       "id": 9,
       "name": "Hong Kong",
       "image": "panorama/1761029145985Hong Kong.jpg",
-      "premium":false
+      "premium": false,
+      "country": "China"
     },
     {
       "id": 10,
       "name": "Grenchen, Switzerland",
       "image": "panorama/1761028988822Grenchen, Switzerland.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Switzerland"
     },
     {
       "id": 11,
       "name": "Vatican",
       "image": "panorama/1722941453627Vatican.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Vatican"
     },
     {
       "id": 12,
       "name": "Stonehenge,Wiltshire, England",
       "image": "panorama/1722941393708Stonehenge,Wiltshire, England.jpg",
-      "premium":false
+      "premium": false,
+      "country": "England"
     },
     {
       "id": 13,
       "name": "Rocky, Canada",
       "image": "panorama/1722941369587Rocky, Canada.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Canada"
     },
     {
       "id": 14,
       "name": "Perugia, Italy",
       "image": "panorama/1722941356816Perugia, Italy.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Italy"
     },
     {
       "id": 15,
       "name": "Miami, Florida",
       "image": "panorama/1722941333137Miami, Florida.jpg",
-      "premium":false
+      "premium": false,
+      "country": "USA"
     },
     {
       "id": 16,
       "name": "Landshut,Germany",
       "image": "panorama/1722941319374Landshut,Germany.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Germany"
     },
     {
       "id": 17,
       "name": "Ebersberg",
       "image": "panorama/1722941281510Ebersberg.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Germany"
     },
     {
       "id": 18,
       "name": "Bavaria, Germany",
       "image": "panorama/1722941275771Bavaria, Germany.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Germany"
     },
     {
       "id": 19,
       "name": "Amalfi, Italy",
       "image": "panorama/1722941268818Amalfi, Italy.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Italy"
     },
     {
       "id": 20,
       "name": "Bibao, Spain",
       "image": "panorama/bilbao_spain.jpeg",
-      "premium":false
+      "premium": false,
+      "country": "Spain"
     },
     {
       "id": 21,
       "name": "Capetown, South Africa",
       "image": "panorama/capetown_southafrica.webp",
-      "premium":false
+      "premium": false,
+      "country": "South Africa"
     },
     {
       "id": 22,
       "name": "Chicago, USA",
       "image": "panorama/chicago_usa.jpg",
-      "premium":false
+      "premium": false,
+      "country": "USA"
     },
     {
       "id": 23,
       "name": "Edinburgh, Scotland",
       "image": "panorama/edinburgh_scotland.jpeg",
-      "premium":false
+      "premium": false,
+      "country": "Scotland"
     },
     {
       "id": 24,
       "name": "Hamburg, Germany",
       "image": "panorama/hamburg_germany.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Germany"
     },
     {
       "id": 25,
       "name": "Lisbon, Portugal",
       "image": "panorama/lisbon_portugal.png",
-      "premium":false
+      "premium": false,
+      "country": "Portugal"
     },
     {
       "id": 26,
       "name": "Medellin, Colombia",
       "image": "panorama/medellin_colombia.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Colombia"
     },
     {
       "id": 27,
       "name": "Porto, Portugal",
       "image": "panorama/porto_portugal.png",
-      "premium":false
+      "premium": false,
+      "country": "Portugal"
     },
     {
       "id": 28,
       "name": "Sydney, Australia",
       "image": "panorama/sydney_australia.png",
-      "premium":false
+      "premium": false,
+      "country": "Australia"
     },
     {
-      "id":29,
-      "name":"Humayun's Tomb, Delhi",
+      "id": 29,
+      "name": "Humayun's Tomb, Delhi",
       "image": "panorama/humayun_tomb.webp",
-      "premium":false
+      "premium": false,
+      "country": "India"
     },
     {
       "id": 30,
       "name": "Tokyo, Japan",
       "image": "panorama/tokyo_japan.jpeg",
-      "premium":false
+      "premium": false,
+      "country": "Japan"
     },
     {
       "id": 31,
       "name": "Newyork, Usa",
       "image": "panorama/newyork_usa.jpeg",
-      "premium":false
+      "premium": false,
+      "country": "USA"
     },
     {
       "id": 32,
       "name": "Paris, France",
       "image": "panorama/paris_france.jpg",
-      "premium":false
+      "premium": false,
+      "country": "France"
     },
     {
       "id": 33,
       "name": "Rio de Janeiro, Brazil",
       "image": "panorama/janerio_brazil.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Brazil"
     },
     {
       "id": 34,
       "name": "Tbilisi, Georgia",
       "image": "panorama/tbilisi1_georgia.jpeg",
-      "premium":false
+      "premium": false,
+      "country": "Georgia"
     },
     {
       "id": 35,
       "name": "Vancouver, Canada",
       "image": "panorama/vancouver_canada.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Canada"
     },
     {
       "id": 36,
       "name": "Bangkok, Thailand",
       "image": "panorama/bangkok_thailand.jpeg",
-      "premium":false
+      "premium": false,
+      "country": "Thailand"
     },
     {
       "id": 37,
       "name": "Cairo, Egypt",
       "image": "panorama/cairo_egypt.jpeg",
-      "premium":false
+      "premium": false,
+      "country": "Egypt"
     },
     {
       "id": 38,
       "name": "Rome, Italy",
       "image": "panorama/roame_italy.jpeg",
-      "premium":false
+      "premium": false,
+      "country": "Italy"
     },
     {
       "id": 39,
       "name": "Melbourne, Australia",
       "image": "panorama/melbourne_australia.jpg",
-      "premium":false
+      "premium": false,
+      "country": "Australia"
     },
     {
       "id": 40,
       "name": "Singapore, Singapore",
       "image": "panorama/singapore.jpeg",
-      "premium":false
+      "premium": false,
+      "country": "Singapore"
     },
     {
       "id": 41,
       "name": "Madinah, Saudi Arabia",
       "image": "panorama/madinah.webp",
-      "premium":false
+      "premium": false,
+      "country": "Saudi Arabia"
     },
     {
-      "id":42,
-      "name":"Sheikh Zayed Grand Mosque",
+      "id": 42,
+      "name": "Sheikh Zayed Grand Mosque",
       "image": "panorama/sheikh_zayed_mosque.webp",
-      "premium":false
+      "premium": false,
+      "country": "UAE"
     },
     {
-      "id":43,
-      "name":"Humayun's Tomb, Delhi",
+      "id": 43,
+      "name": "Humayun's Tomb, Delhi",
       "image": "panorama/humayun_tomb.webp",
-      "premium":false
+      "premium": false,
+      "country": "India"
     }
   ]
-
 }
-
-
